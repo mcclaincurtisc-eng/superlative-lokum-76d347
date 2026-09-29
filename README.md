@@ -1,4 +1,4 @@
-# The Art of Astonishment
+# Magic & Astonishment
 
 An editorial information site about modern close-up, family, parlor, and stage magic. The experience uses the supplied performance photography to explain how each show format feels, with an emphasis on shared wonder and audience reactions.
 
